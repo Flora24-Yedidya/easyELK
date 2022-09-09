@@ -2,7 +2,6 @@
 echo "---------------------------------------------------------------" 
 echo " $(date)"
 echo " Starting easyELK Installer "
-echo " ELK Stack for Debian-based Systems "
 echo " Elasticsearch - Logstash - Kibana "
 echo "---------------------------------------------------------------"
 echo " easyELK Status "
